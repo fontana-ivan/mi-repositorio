@@ -22,3 +22,4 @@ arrastramos la carpeta hacia la consola, quedara algo asi
 -y para agregarlo al repositorio usamos
 	$ git commit -m "-m mas comillas seria el msj para enviar"
 
+
