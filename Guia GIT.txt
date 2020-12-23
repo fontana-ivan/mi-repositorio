@@ -1,0 +1,21 @@
+Git
+
+-abrimos git bash
+-configuramos user.name y user.email
+	$ git config --global user.name "Ivan Leonardo"
+	$ git config --global user.email "fontana-ivan@hotmail.com"
+-para ver los datos escribimos
+	$ git config user.name
+	$ git config user.email
+-para abrir la ubicacion de un archivo usamos el comando cd y
+arrastramos la carpeta hacia la consola, quedara algo asi
+	$ cd '/c/Users/ivan/Desktop/MI REPOSITORIO'
+-para iniciar un repositorio tenemos que usar el comando
+	$ git init
+-para ver el estado actual usamos
+	$ git status
+-para agregar un archivo usamos
+	$ git add .
+	usando el . agregamos todos los archivos que agregamos o modificamos
+	o para agregar cada archivos por separado hacemos asi
+	$ git add index.html
