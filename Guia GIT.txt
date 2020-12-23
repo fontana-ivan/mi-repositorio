@@ -16,6 +16,9 @@ arrastramos la carpeta hacia la consola, quedara algo asi
 	$ git status
 -para agregar un archivo usamos
 	$ git add .
-	usando el . agregamos todos los archivos que agregamos o modificamos
+	usando el "." agregamos todos los archivos nuevos o modificamos
 	o para agregar cada archivos por separado hacemos asi
 	$ git add index.html
+-y para agregarlo al repositorio usamos
+	$ git commit -m "-m mas comillas seria el msj para enviar"
+
