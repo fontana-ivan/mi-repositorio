@@ -21,7 +21,7 @@ arrastramos la carpeta hacia la consola, quedara algo asi
 	$ git add index.html
 -y para agregarlo al repositorio usamos
 	$ git commit -m "-m mas comillas seria el msj para enviar"
-
+dasdasdas
 
 esto no vaa
 dasdasdasdas
